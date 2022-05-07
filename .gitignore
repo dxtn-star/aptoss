@@ -2,7 +2,7 @@
 # Please follow https://help.github.com/en/articles/ignoring-files to create a global
 # .gitignore file locally for IDE/Emacs/Vim generated files.
 **/target
-**/*.rs.bk
+**/*.rs.bks
 .idea/
 
 # Ignore wallet mnemonic files used for deterministic key derivation
