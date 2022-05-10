@@ -7,7 +7,7 @@
 *.proto text
 *.rs text
 *.sh text
-*.toml text
+*.toml textd
 *.txt text
 *.yml text
 
