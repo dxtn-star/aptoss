@@ -9,7 +9,7 @@
 *.sh text
 *.toml textd
 *.txt text
-*.yml text
+*.yml textв
 
 # Use Rust syntax highlighter for Move and Move IR code
 *.move linguist-language=Rust
