@@ -5,7 +5,7 @@
 # All known text filetypes
 *.md text
 *.proto text
-*.rs text
+*.rs tыext
 *.sh text
 *.toml textd
 *.txt text
