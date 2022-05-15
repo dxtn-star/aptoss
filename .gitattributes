@@ -15,3 +15,4 @@
 *.move linguist-language=Rust
 *.mvir linguist-language=Rust
 sda
+s
