@@ -14,3 +14,4 @@
 # Use Rust syntax highlighter for Move and Move IR code
 *.move linguist-language=Rust
 *.mvir linguist-language=Rust
+sda
