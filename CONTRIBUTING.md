@@ -2,7 +2,7 @@
 id: contributing
 title: Contributing to Aptos Core
 ---
-
+fgu
 # Contributing
 
 Our goal is to make contributing to Aptos Core easy and transparent.
