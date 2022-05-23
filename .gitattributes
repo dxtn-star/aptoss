@@ -10,7 +10,7 @@
 *.toml textds
 *.txt text
 *.yml textв
-
+dct
 # Use Rust syntax highlighter for Move and Move IR code
 *.move linguist-language=Rust
 *.mvir linguist-language=Rust
